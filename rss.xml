@@ -1,9 +1,424 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
     <title>Servimedia — Todas las noticias</title>
-    <link>https://www.servimedia.es/</link>
-    <description>Todas las noticias públicas de Servimedia, incluidas Empresas y Economía.</description>
+    <link>https://www.servimedia.es</link>
+    <description>Todas las noticias públicas de Servimedia, incluidas las noticias de Empresas y Economía.</description>
     <language>es-ES</language>
+    <lastBuildDate>Sun, 06 Sep 2026 08:50:47 +0000</lastBuildDate>
+    <item>
+      <title>Uno de cada tres trabajadores desea cambiar de empleo tras las vacaciones</title>
+      <link>https://www.servimedia.es/noticias/uno-cada-tres-trabajadores-desea-cambiar-empleo-tras-vacaciones/1413245381</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/uno-cada-tres-trabajadores-desea-cambiar-empleo-tras-vacaciones/1413245381</guid>
+      <pubDate>Sun, 06 Sep 2026 08:43:34 +0000</pubDate>
+      <category>Laboral</category>
+      <description>El 33% de los trabajadores en España aseguran que están buscando un nuevo empleo u otras alternativas, mientras que el 30% declaran sentirse…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Académicos expertos en Monarquía señalan que Felipe VI mantiene con el PSOE "una relación más distante que su padre"</title>
+      <link>https://www.servimedia.es/noticias/academicos-expertos-monarquia-senalan-felipe-vi-mantiene-psoe-una-relacion-mas-distante-padre/1413237909</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/academicos-expertos-monarquia-senalan-felipe-vi-mantiene-psoe-una-relacion-mas-distante-padre/1413237909</guid>
+      <pubDate>Sun, 06 Sep 2026 08:31:08 +0000</pubDate>
+      <category>Casa Real</category>
+      <description>El documento 'Las izquierdas y la Monarquía en España. Una relación ambivalente', publicado recientemente por la Red para el Estudio de Monarquías…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413237909-1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El comercio aumenta un 234% la cifra de especies amenazadas en los países ricos desde 2010</title>
+      <link>https://www.servimedia.es/noticias/comercio-aumenta-234-cifra-especies-amenazadas-paises-ricos-desde-2010/1413240304</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/comercio-aumenta-234-cifra-especies-amenazadas-paises-ricos-desde-2010/1413240304</guid>
+      <pubDate>Sun, 06 Sep 2026 08:22:03 +0000</pubDate>
+      <category>Biodiversidad</category>
+      <description>El número de especies amenazadas aumentó un 234% en los países desarrollados desde 2010 debido al comercio internacional, sobre todo debido a la…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El pleno del Senado vota el miércoles la reforma de las leyes de discapacidad y dependencia</title>
+      <link>https://www.servimedia.es/noticias/pleno-senado-vota-miercoles-reforma-leyes-discapacidad-dependencia/1413267949</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/pleno-senado-vota-miercoles-reforma-leyes-discapacidad-dependencia/1413267949</guid>
+      <pubDate>Sun, 06 Sep 2026 08:17:01 +0000</pubDate>
+      <category>Dependencia</category>
+      <description>El pleno del Senado debatirá y votará el miércoles el dictamen aprobado el jueves en el seno de la Comisión de Derechos Sociales, Consumo y Agenda…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413267949-1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ferrovial dejará de cotizar en Países Bajos esta semana tres años después de su marcha</title>
+      <link>https://www.servimedia.es/noticias/ferrovial-dejara-cotizar-paises-bajos-esta-semana-tres-anos-despues-marcha/1413171730</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/ferrovial-dejara-cotizar-paises-bajos-esta-semana-tres-anos-despues-marcha/1413171730</guid>
+      <pubDate>Sun, 06 Sep 2026 08:08:01 +0000</pubDate>
+      <category>Empresas</category>
+      <description>Ferrovial pondrá fin el viernes a su cotización en Euronext Ámsterdam, apenas tres años después de trasladar su sede social a Países Bajos, al…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413171730-1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La princesa Leonor inicia esta semana con "ganas" su etapa universitaria en la UC3M</title>
+      <link>https://www.servimedia.es/noticias/princesa-leonor-inicia-esta-semana-ganas-etapa-universitaria-uc3m/1413240633</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/princesa-leonor-inicia-esta-semana-ganas-etapa-universitaria-uc3m/1413240633</guid>
+      <pubDate>Sun, 06 Sep 2026 08:01:04 +0000</pubDate>
+      <category>Casa Real</category>
+      <description>La princesa Leonor inicia esta semana su etapa universitaria en la Universidad Carlos III de Madrid (UC3M), donde cursará el grado de Ciencias…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413240633-1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El aire acondicionado es un 60,5% más probable en los hogares ricos en España</title>
+      <link>https://www.servimedia.es/noticias/aire-acondicionado-es-60-5-mas-probable-hogares-ricos-espana/1413240552</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/aire-acondicionado-es-60-5-mas-probable-hogares-ricos-espana/1413240552</guid>
+      <pubDate>Sun, 06 Sep 2026 07:56:03 +0000</pubDate>
+      <category>Pobreza energética</category>
+      <description>Los hogares de renta alta (con ingresos mayores a 3.000 euros mensuales) tienen un 60,5% más probabilidades de contar con aire acondicionado en casa…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413240552-1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La dirección de CEOE se reunirá en Ceuta el miércoles</title>
+      <link>https://www.servimedia.es/noticias/direccion-ceoe-reunira-ceuta-miercoles/1413218159</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/direccion-ceoe-reunira-ceuta-miercoles/1413218159</guid>
+      <pubDate>Sun, 06 Sep 2026 07:40:42 +0000</pubDate>
+      <category>Ceuta</category>
+      <description>CEOE celebrará en Ceuta la próxima reunión de sus órganos de gobierno, prevista para este miércoles, para expresar su “apoyo, cercanía y compromiso”…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Renfe permitirá desde este lunes acceder con patinete eléctrico a sus trenes de Cercanías, Media y Larga Distancia</title>
+      <link>https://www.servimedia.es/noticias/renfe-permitira-desde-este-lunes-acceder-patinete-electrico-trenes-cercanias-media-larga-distancia/1413245482</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/renfe-permitira-desde-este-lunes-acceder-patinete-electrico-trenes-cercanias-media-larga-distancia/1413245482</guid>
+      <pubDate>Sun, 06 Sep 2026 07:32:51 +0000</pubDate>
+      <category>Transporte</category>
+      <description>A partir de este lunes, 7 de septiembre, Renfe volverá a permitir el transporte de patinetes eléctricos a bordo de sus trenes de Cercanías, Media y…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El curso escolar arranca con un calendario de movilizaciones por la mejora laboral docente</title>
+      <link>https://www.servimedia.es/noticias/curso-escolar-arranca-calendario-movilizaciones-mejora-laboral-docente/1413234846</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/curso-escolar-arranca-calendario-movilizaciones-mejora-laboral-docente/1413234846</guid>
+      <pubDate>Sun, 06 Sep 2026 07:26:07 +0000</pubDate>
+      <category>Educación</category>
+      <description>Más de ocho millones de alumnos inician estos días el nuevo curso. La mayoría lo hará este 8 de septiembre, aunque la fecha de arranque depende de la…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413234846-1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sánchez reúne mañana a sus diputados y senadores para la recta final de la legislatura</title>
+      <link>https://www.servimedia.es/noticias/sanchez-reune-manana-diputados-senadores-para-recta-final-legislatura/1413250976</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/sanchez-reune-manana-diputados-senadores-para-recta-final-legislatura/1413250976</guid>
+      <pubDate>Sun, 06 Sep 2026 07:20:42 +0000</pubDate>
+      <category>PSOE</category>
+      <description>El presidente del Gobierno, Pedro Sánchez, presidirá este lunes la reunión interparlamentaria del Grupo Parlamentario Socialista, que se celebrará en…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La luz sube hoy un 1,4%, hasta los 140 euros</title>
+      <link>https://www.servimedia.es/noticias/luz-sube-hoy-1-4-hasta-140-euros/1413267968</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/luz-sube-hoy-1-4-hasta-140-euros/1413267968</guid>
+      <pubDate>Sun, 06 Sep 2026 07:11:38 +0000</pubDate>
+      <category>Energía</category>
+      <description>El precio de la luz en el mercado mayorista sube este domingo un 1,4% hasta situarse en 140,01 euros por megavatio hora (MWh), frente a los 138,11…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El primer domingo de septiembre alcanzará los 35 grados en gran parte de España</title>
+      <link>https://www.servimedia.es/noticias/primer-domingo-septiembre-alcanzara-35-grados-gran-parte-espana/1413267914</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/primer-domingo-septiembre-alcanzara-35-grados-gran-parte-espana/1413267914</guid>
+      <pubDate>Sun, 06 Sep 2026 07:00:01 +0000</pubDate>
+      <category>Meteorología</category>
+      <description>Los termómetros alcanzarán este domingo los 35 grados en amplias zonas de la mitad sur y cuadrante nordeste peninsular así como en zonas de los…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El obispo de Barbastro reza en Torreciudad por la "unidad" y agradece al Opus Dei "el bien realizado"</title>
+      <link>https://www.servimedia.es/noticias/obispo-barbastro-reza-torreciudad-unidad-agradece-opus-dei-bien-realizado/1413267990</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/obispo-barbastro-reza-torreciudad-unidad-agradece-opus-dei-bien-realizado/1413267990</guid>
+      <pubDate>Sat, 05 Sep 2026 15:50:04 +0000</pubDate>
+      <category>Religión</category>
+      <description>El obispo de Barbastro-Monzón, Ángel Pérez Pueyo, pidió este sábado a la Virgen de Torreciudad "unidad" en el seno de la Iglesia y agradeció al Opus…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413267990-1.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Teatro de Títeres de El Retiro abre el plazo para inscribirse en su laboratorio</title>
+      <link>https://www.servimedia.es/noticias/teatro-titeres-retiro-abre-plazo-para-inscribirse-laboratorio/1413267991</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/teatro-titeres-retiro-abre-plazo-para-inscribirse-laboratorio/1413267991</guid>
+      <pubDate>Sat, 05 Sep 2026 15:38:38 +0000</pubDate>
+      <category>Cultura</category>
+      <description>El Teatro de Títeres de El Retiro, espacio perteneciente al Área de Cultura, Turismo y Deporte del Ayuntamiento de Madrid, pone en marcha una nueva…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Universidad Complutense y los colegios mayores lanzan una nueva campaña contra las novatadas</title>
+      <link>https://www.servimedia.es/noticias/universidad-complutense-colegios-mayores-lanzan-una-nueva-campana-novatadas/1413267974</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/universidad-complutense-colegios-mayores-lanzan-una-nueva-campana-novatadas/1413267974</guid>
+      <pubDate>Sat, 05 Sep 2026 15:16:39 +0000</pubDate>
+      <category>Universidades</category>
+      <description>La Universidad Complutense de Madrid y la Asociación de Colegios Mayores de Madrid lanzarán este lunes por quinto año consecutivo su campaña para…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Universidad Complutense y los colegios mayores lanzan una nueva campaña contra las novatadas</title>
+      <link>https://www.servimedia.es/noticias/universidad-complutense-colegios-mayores-lanzan-una-nueva-campana-novatadas/1413267975</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/universidad-complutense-colegios-mayores-lanzan-una-nueva-campana-novatadas/1413267975</guid>
+      <pubDate>Sat, 05 Sep 2026 15:11:16 +0000</pubDate>
+      <category>Universidades</category>
+      <description>La Universidad Complutense de Madrid y la Asociación de Colegios Mayores de Madrid lanzarán este lunes por quinto año consecutivo su campaña para…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Comunidad de Madrid pagará 1.000 euros para conciliación de personas con hijos con patologías crónicas complejas</title>
+      <link>https://www.servimedia.es/noticias/comunidad-madrid-pagara-1000-euros-para-conciliacion-personas-hijos-patologias-cronicas-complejas/1413267893</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/comunidad-madrid-pagara-1000-euros-para-conciliacion-personas-hijos-patologias-cronicas-complejas/1413267893</guid>
+      <pubDate>Sat, 05 Sep 2026 14:50:12 +0000</pubDate>
+      <category>Laboral</category>
+      <description>El Consejo de Gobierno de la Comunidad de Madrid ha aprobado esta semana nuevas ayudas para favorecer la conciliación laboral y familiar de personas…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Fundación Princesa de Girona reúne a 30 jóvenes emprendedores para trabajar el liderazgo a través del arte de Dalí</title>
+      <link>https://www.servimedia.es/noticias/fundacion-princesa-girona-reune-30-jovenes-emprendedores-para-trabajar-liderazgo-traves-arte-dali/1413267986</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/fundacion-princesa-girona-reune-30-jovenes-emprendedores-para-trabajar-liderazgo-traves-arte-dali/1413267986</guid>
+      <pubDate>Sat, 05 Sep 2026 14:35:04 +0000</pubDate>
+      <category>Juventud</category>
+      <description>La Fundación Princesa de Girona reunió este sábado en el Teatro-Museo Dalí de Figueres a 30 jóvenes emprendedores de distintos puntos de España en…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413267986-1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>CSIF vigilará si las ONG contratan estudiantes de Enfermería en lugar de titulados para la crisis migratoria de Ceuta</title>
+      <link>https://www.servimedia.es/noticias/csif-vigilara-si-ong-contratan-estudiantes-enfermeria-lugar-titulados-para-crisis-migratoria-ceuta/1413267971</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/csif-vigilara-si-ong-contratan-estudiantes-enfermeria-lugar-titulados-para-crisis-migratoria-ceuta/1413267971</guid>
+      <pubDate>Sat, 05 Sep 2026 14:10:02 +0000</pubDate>
+      <category>Sanidad</category>
+      <description>La Central Sindical Independiente y de Funcionarios (CSIF) ha destacado que mantendrá "una vigilancia activa y rigurosa ante los intentos detectados…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La luz sube mañana un 1,4%, hasta los 140 euros</title>
+      <link>https://www.servimedia.es/noticias/luz-sube-manana-1-4-hasta-140-euros/1413267967</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/luz-sube-manana-1-4-hasta-140-euros/1413267967</guid>
+      <pubDate>Sat, 05 Sep 2026 13:27:42 +0000</pubDate>
+      <category>Energía</category>
+      <description>El precio de la luz en el mercado mayorista subirá mañana, domingo, un 1,4%, hasta situarse en 140,01 euros por megavatio hora (MWh), frente a los…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>COAG reclama activar las cláusulas de salvaguarda ante la “crisis total” del cereal por las importaciones de Ucrania</title>
+      <link>https://www.servimedia.es/noticias/coag-reclama-activar-clausulas-salvaguarda-crisis-total-cereal-importaciones-ucrania/1413267954</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/coag-reclama-activar-clausulas-salvaguarda-crisis-total-cereal-importaciones-ucrania/1413267954</guid>
+      <pubDate>Sat, 05 Sep 2026 13:05:00 +0000</pubDate>
+      <category>Agricultura</category>
+      <description>La Coordinadora de Organizaciones de Agricultores y Ganaderos (COAG) reclamó este sábado en Salamanca la activación de las cláusulas de salvaguarda…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Andalucía declara Huelva capital como área en alerta tras detectar mosquitos portadores del virus del Nilo</title>
+      <link>https://www.servimedia.es/noticias/andalucia-declara-huelva-capital-como-area-alerta-tras-detectar-mosquitos-portadores-virus-nilo/1413267946</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/andalucia-declara-huelva-capital-como-area-alerta-tras-detectar-mosquitos-portadores-virus-nilo/1413267946</guid>
+      <pubDate>Sat, 05 Sep 2026 12:33:21 +0000</pubDate>
+      <category>Salud</category>
+      <description>La Consejería de Presidencia, Sanidad y Emergencias de la Junta de Andalucía ha declarado la ciudad de Huelva área en alerta tras confirmar la…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Feijóo hace un trato con Almeida y Ayuso en las elecciones: “Vosotros le ganáis a los ministros y yo le gano al presidente”</title>
+      <link>https://www.servimedia.es/noticias/feijoo-hace-trato-almeida-ayuso-elecciones-vosotros-ganais-ministros-yo-gano-presidente/1413267947</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/feijoo-hace-trato-almeida-ayuso-elecciones-vosotros-ganais-ministros-yo-gano-presidente/1413267947</guid>
+      <pubDate>Sat, 05 Sep 2026 12:31:13 +0000</pubDate>
+      <category>Elecciones</category>
+      <description>El presidente del Partido Popular, Alberto Núñez Feijóo, hizo este sábado un trato con José Luis Martínez-Almedia e Isabel Díaz Ayuso pidiéndoles que…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ayuso pide “responsabilidades políticas” por la crisis en Ceuta y acusa a Sánchez de estar “obsesionado” con ella</title>
+      <link>https://www.servimedia.es/noticias/ayuso-pide-responsabilidades-politicas-crisis-ceuta-acusa-sanchez-estar-obsesionado-ella/1413267940</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/ayuso-pide-responsabilidades-politicas-crisis-ceuta-acusa-sanchez-estar-obsesionado-ella/1413267940</guid>
+      <pubDate>Sat, 05 Sep 2026 12:08:24 +0000</pubDate>
+      <category>Ceuta</category>
+      <description>La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, pidió este sábado “responsabilidades políticas” por la crisis en Ceuta por la llegada de…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Transportes autoriza el uso de un espacio del Puerto de Ceuta para acoger a los inmigrantes tras el rechazo de la Autoridad Portuaria</title>
+      <link>https://www.servimedia.es/noticias/transportes-autoriza-uso-espacio-puerto-ceuta-para-acoger-inmigrantes-tras-rechazo-autoridad-portuaria/1413267937</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/transportes-autoriza-uso-espacio-puerto-ceuta-para-acoger-inmigrantes-tras-rechazo-autoridad-portuaria/1413267937</guid>
+      <pubDate>Sat, 05 Sep 2026 11:56:28 +0000</pubDate>
+      <category>Ceuta</category>
+      <description>El Ministerio de Transportes y Movilidad Sostenible ha autorizado a la Secretaría de Estado de Migraciones a ocupar un espacio de 16.000 metros…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El PSOE dice que las autonomías que han votado en contra de una “mejor” financiación tienen que explicarlo</title>
+      <link>https://www.servimedia.es/noticias/psoe-dice-autonomias-han-votado-una-mejor-financiacion-tienen-explicarlo/1413267931</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/psoe-dice-autonomias-han-votado-una-mejor-financiacion-tienen-explicarlo/1413267931</guid>
+      <pubDate>Sat, 05 Sep 2026 11:31:47 +0000</pubDate>
+      <category>Política</category>
+      <description>La secretaria de Igualdad del PSOE, Pilar Bernabé, afirmó este sábado que “todos los presidentes que hoy llegan a sus territorios le tienen que…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413267931-1.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Ayuso, ante el nuevo modelo de financiación: “El dinero de los madrileños no se toca y el que lo toque lo va a pagar”</title>
+      <link>https://www.servimedia.es/noticias/ayuso-nuevo-modelo-financiacion-dinero-madrilenos-no-toca-toque-va-pagar/1413267926</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/ayuso-nuevo-modelo-financiacion-dinero-madrilenos-no-toca-toque-va-pagar/1413267926</guid>
+      <pubDate>Sat, 05 Sep 2026 11:11:54 +0000</pubDate>
+      <category>Financiación</category>
+      <description>La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, juró este sábado, haciendo alusión a la propuesta del nuevo modelo de financiación…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El BOE publica la prórroga de los controles a los viajeros procedentes de Italia hasta el 22 de septiembre</title>
+      <link>https://www.servimedia.es/noticias/boe-publica-prorroga-controles-viajeros-procedentes-italia-hasta-22-septiembre/1413267876</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/boe-publica-prorroga-controles-viajeros-procedentes-italia-hasta-22-septiembre/1413267876</guid>
+      <pubDate>Sat, 05 Sep 2026 08:59:48 +0000</pubDate>
+      <category>Interior</category>
+      <description>El Boletín Oficial del Estado (BOE) publicó este sábado la orden ministerial por la que se prorrogan por 15 días más, hasta el 22 de septiembre, los…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Óscar López ve una “amenaza” para la democracia que unos pocos países controlen la IA y pide una gobernanza global</title>
+      <link>https://www.servimedia.es/noticias/oscar-lopez-ve-una-amenaza-para-democracia-pocos-paises-controlen-ia-pide-una-gobernanza-global/1413267868</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/oscar-lopez-ve-una-amenaza-para-democracia-pocos-paises-controlen-ia-pide-una-gobernanza-global/1413267868</guid>
+      <pubDate>Sat, 05 Sep 2026 08:40:18 +0000</pubDate>
+      <category>Tecnología</category>
+      <description>El ministro para la Transformación Digital y de la Función Pública, Óscar López, advirtió este sábado de la “amenaza alarmante contra la soberanía…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413267868-1.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La luz se abarata un 18,5%, hasta los 138,11 euros por MWh</title>
+      <link>https://www.servimedia.es/noticias/luz-abarata-18-5-hasta-138-11-euros-mwh/1413245505</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/luz-abarata-18-5-hasta-138-11-euros-mwh/1413245505</guid>
+      <pubDate>Sat, 05 Sep 2026 07:24:54 +0000</pubDate>
+      <category>Energía</category>
+      <description>El precio de la luz en el mercado mayorista baja este sábado un 18,52%, hasta situarse en 138,11 euros por MWh, frente a los 169,50 euros de ayer…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hacienda aprueba la propuesta de financiación autonómica e incluye un fondo que compensará por turismo masivo o despoblación</title>
+      <link>https://www.servimedia.es/noticias/hacienda-aprueba-propuesta-financiacion-autonomica-e-incluye-fondo-compensara-turismo-masivo-o-despoblacion/1413251028</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/hacienda-aprueba-propuesta-financiacion-autonomica-e-incluye-fondo-compensara-turismo-masivo-o-despoblacion/1413251028</guid>
+      <pubDate>Fri, 04 Sep 2026 18:36:20 +0000</pubDate>
+      <category>Financiación</category>
+      <description>El Ministerio de Hacienda consiguió este viernes aprobar la propuesta de reforma del sistema de financiación autonómica con los votos favorables de…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Adif defiende que en Adamuz “se cumplió con la normativa y los procedimientos de mantenimiento”</title>
+      <link>https://www.servimedia.es/noticias/adif-defiende-adamuz-cumplio-normativa-procedimientos-mantenimiento/1413251026</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/adif-defiende-adamuz-cumplio-normativa-procedimientos-mantenimiento/1413251026</guid>
+      <pubDate>Fri, 04 Sep 2026 18:18:04 +0000</pubDate>
+      <category>Adamuz</category>
+      <description>El Administrador de Infraestructuras Ferroviarias (Adif) manifestó este viernes que en Adamuz “se cumplió con la normativa y los procedimientos de…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Murtra pide que los empresarios se hagan del “lobby de hacer cosas”</title>
+      <link>https://www.servimedia.es/noticias/murtra-pide-empresarios-hagan-lobby-hacer-cosas/1413250989</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/murtra-pide-empresarios-hagan-lobby-hacer-cosas/1413250989</guid>
+      <pubDate>Fri, 04 Sep 2026 16:47:50 +0000</pubDate>
+      <category>Telecos</category>
+      <description>El presidente ejecutivo de Telefónica, Marc Murtra, defendió este viernes la relevancia de Cataluña en la nueva etapa de transformación del grupo y…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La Airef avisa del posible deterioro de la sostenibilidad fiscal si el modelo de financiación no conlleva una estrategia a medio plazo</title>
+      <link>https://www.servimedia.es/noticias/airef-avisa-posible-deterioro-sostenibilidad-fiscal-si-modelo-financiacion-no-conlleva-una-estrategia-medio-plazo/1413250988</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/airef-avisa-posible-deterioro-sostenibilidad-fiscal-si-modelo-financiacion-no-conlleva-una-estrategia-medio-plazo/1413250988</guid>
+      <pubDate>Fri, 04 Sep 2026 16:37:06 +0000</pubDate>
+      <category>Fiscal</category>
+      <description>La presidenta de la Autoridad Independiente de Responsabilidad Fiscal (Airef), Inés Olóndriz, participó este viernes en el Consejo de Política Fiscal…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El IBEX cierra la semana plano y se mantiene en los 20.000 puntos</title>
+      <link>https://www.servimedia.es/noticias/ibex-cierra-semana-plano-mantiene-20000-puntos/1413250949</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/ibex-cierra-semana-plano-mantiene-20000-puntos/1413250949</guid>
+      <pubDate>Fri, 04 Sep 2026 15:59:54 +0000</pubDate>
+      <category>Bolsas y mercados</category>
+      <description>El IBEX 35 cerró este viernes una semana en la que terminó prácticamente plano, ya que subió apenas un 0,05% y se colocó en los 20.050,7 puntos,…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Hacienda aprueba la propuesta de financiación autonómica e incluye un fondo que compensará por turismo masivo o despoblación</title>
+      <link>https://www.servimedia.es/noticias/hacienda-aprueba-propuesta-financiacion-autonomica-e-incluye-fondo-compensara-turismo-masivo-o-despoblacion/1413250935</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/hacienda-aprueba-propuesta-financiacion-autonomica-e-incluye-fondo-compensara-turismo-masivo-o-despoblacion/1413250935</guid>
+      <pubDate>Fri, 04 Sep 2026 15:43:20 +0000</pubDate>
+      <category>Financiación</category>
+      <description>El Ministerio de Hacienda consiguió este viernes aprobar la propuesta de reforma del sistema de financiación autonómica con los votos favorables de…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413250935-1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Brent baja un 0,3% pero no cae de los 95 dólares</title>
+      <link>https://www.servimedia.es/noticias/brent-baja-0-3-pero-no-cae-95-dolares/1413250939</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/brent-baja-0-3-pero-no-cae-95-dolares/1413250939</guid>
+      <pubDate>Fri, 04 Sep 2026 15:39:27 +0000</pubDate>
+      <category>Energía</category>
+      <description>El precio del barril de Brent de entrega en noviembre de 2026, el de referencia en Europa, cotizaba este viernes, pasadas las 17.30 horas, en el…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Técnicos de Hacienda piden al ministro España que negocie la financiación autonómica con las comunidades</title>
+      <link>https://www.servimedia.es/noticias/tecnicos-hacienda-piden-ministro-espana-negocie-financiacion-autonomica-comunidades/1413250934</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/tecnicos-hacienda-piden-ministro-espana-negocie-financiacion-autonomica-comunidades/1413250934</guid>
+      <pubDate>Fri, 04 Sep 2026 15:22:06 +0000</pubDate>
+      <category>Financiación autonómica</category>
+      <description>La asociación de técnicos del Ministerio de Hacienda Gestha pidió este viernes al ministro del ramo, Arcadi España, que acuerde con las comunidades…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>España y México sellan un acuerdo para estrechar la colaboración en IA, conectividad y ciberseguridad</title>
+      <link>https://www.servimedia.es/noticias/espana-mexico-sellan-acuerdo-para-estrechar-colaboracion-ia-conectividad-ciberseguridad/1413250931</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/espana-mexico-sellan-acuerdo-para-estrechar-colaboracion-ia-conectividad-ciberseguridad/1413250931</guid>
+      <pubDate>Fri, 04 Sep 2026 15:14:25 +0000</pubDate>
+      <category>Acuerdo</category>
+      <description>Los Gobiernos de España y México pactaron este viernes estrechar su colaboración en inteligencia artificial (IA), supercomputación, conectividad y…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Agricultura acoge el miércoles una jornada sobre las nuevas técnicas genómicas</title>
+      <link>https://www.servimedia.es/noticias/agricultura-acoge-miercoles-una-jornada-sobre-nuevas-tecnicas-genomicas/1413245636</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/agricultura-acoge-miercoles-una-jornada-sobre-nuevas-tecnicas-genomicas/1413245636</guid>
+      <pubDate>Fri, 04 Sep 2026 15:05:58 +0000</pubDate>
+      <category>Agricultura</category>
+      <description>El Ministerio de Agricultura, Pesca y Alimentación acoge el próximo miércoles, 9 de septiembre, la jornada sobre las nuevas técnicas genómicas (NTG):…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La reforma de dependencia y discapacidad será votada en el Pleno del Senado la próxima semana tras ser dictaminada en comisión</title>
+      <link>https://www.servimedia.es/noticias/reforma-dependencia-discapacidad-sera-votada-pleno-senado-proxima-semana-tras-ser-dictaminada-comision/1413240397</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/reforma-dependencia-discapacidad-sera-votada-pleno-senado-proxima-semana-tras-ser-dictaminada-comision/1413240397</guid>
+      <pubDate>Thu, 03 Sep 2026 10:35:06 +0000</pubDate>
+      <category>Discapacidad</category>
+      <description>La Comisión de Derechos Sociales del Senado aprobó este jueves por 17 votos a favor, los del PP, y 15 abstenciones, el dictamen que modifica el texto…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413240397-1.jpg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Las ONG del Comité de Emergencia Español despliegan ayuda inmediata en Nepal</title>
+      <link>https://www.servimedia.es/noticias/ong-comite-emergencia-espanol-despliegan-ayuda-inmediata-nepal/1413238090</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/ong-comite-emergencia-espanol-despliegan-ayuda-inmediata-nepal/1413238090</guid>
+      <pubDate>Tue, 01 Sep 2026 15:37:04 +0000</pubDate>
+      <category>Solidaridad</category>
+      <description>Las ONG del Comité de Emergencia Español desplegaron la semana pasada ayuda inmediata en Nepal y ya trabajan sobre el terreno suministrando agua…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413238090-1.jpeg" type="image/jpeg" />
+    </item>
+    <item>
+      <title>La selección femenina de baloncesto visita Endesa antes de partir a Berlín para el Mundial</title>
+      <link>https://www.servimedia.es/noticias/seleccion-femenina-baloncesto-visita-endesa-antes-partir-berlin-para-mundial/1413232328</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/seleccion-femenina-baloncesto-visita-endesa-antes-partir-berlin-para-mundial/1413232328</guid>
+      <pubDate>Mon, 31 Aug 2026 15:30:00 +0000</pubDate>
+      <category>Deporte</category>
+      <description>La sede de Endesa en Madrid acogió este lunes el acto de despedida de la selección femenina española de baloncesto, que este mismo viernes debutará…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Mañana finaliza el plazo para participar en el concurso infantil de dibujo sobre los océanos del CSIC</title>
+      <link>https://www.servimedia.es/noticias/manana-finaliza-plazo-para-participar-concurso-infantil-dibujo-sobre-oceanos-csic/1413195052</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/manana-finaliza-plazo-para-participar-concurso-infantil-dibujo-sobre-oceanos-csic/1413195052</guid>
+      <pubDate>Sun, 30 Aug 2026 15:28:01 +0000</pubDate>
+      <category>Oceanografía</category>
+      <description>Mañana lunes concluye el plazo para participar en el concurso infantil de dibujo ‘Reimagina. El océano a través de tus ojos’, organizado por el…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>El Gobierno llega a septiembre con el decreto de Vivienda pendiente</title>
+      <link>https://www.servimedia.es/noticias/gobierno-llega-septiembre-decreto-vivienda-pendiente/1413144293</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/gobierno-llega-septiembre-decreto-vivienda-pendiente/1413144293</guid>
+      <pubDate>Sun, 30 Aug 2026 09:19:00 +0000</pubDate>
+      <category>Vivienda</category>
+      <description>El Gobierno afrontará el arranque del nuevo curso político con una de sus principales iniciativas legislativas aún pendiente, el real decreto ley de…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413144293-1.jpg" type="image/jpeg" />
+    </item>
   </channel>
 </rss>
