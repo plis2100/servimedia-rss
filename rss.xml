@@ -5,7 +5,16 @@
     <link>https://www.servimedia.es</link>
     <description>Todas las noticias públicas de Servimedia, incluidas las noticias de Empresas y Economía.</description>
     <language>es-ES</language>
-    <lastBuildDate>Wed, 16 Sep 2026 19:43:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 20:20:12 +0000</lastBuildDate>
+    <item>
+      <title>El Gobierno muestra su "perplejidad" tras paralizar la Audiencia el campamento del puerto de Ceuta</title>
+      <link>https://www.servimedia.es/noticias/gobierno-muestra-perplejidad-tras-paralizar-audiencia-campamento-puerto-ceuta/1413310850</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/gobierno-muestra-perplejidad-tras-paralizar-audiencia-campamento-puerto-ceuta/1413310850</guid>
+      <pubDate>Wed, 16 Sep 2026 19:53:28 +0000</pubDate>
+      <category>Ceuta</category>
+      <description>El Gobierno aseguró este miércoles que "no puede ocultar su perplejidad" ante la decisión de la Audiencia Nacional de paralizar de forma temporal el…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Martín Blanco califica la aprobación de la ley de discapacidad y dependencia de "gran logro de la democracia"</title>
       <link>https://www.servimedia.es/noticias/martin-blanco-califica-aprobacion-ley-discapacidad-dependencia-gran-logro-democracia/1413310833</link>
@@ -13496,15 +13505,6 @@
       <category>Energía</category>
       <description>Power to Hydrogen (P2H2), desarrollador de sistemas de electrolizadores de membrana de intercambio aniónico (AEM), y Repsol anunciaron este martes la…</description>
       <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La Fundación Jiménez Díaz lidera la experiencia del paciente en los hospitales de Madrid, según ANPASS</title>
-      <link>https://www.servimedia.es/noticias/fundacion-jimenez-diaz-lidera-experiencia-paciente-hospitales-madrid-anpass/1413275232</link>
-      <guid isPermaLink="true">https://www.servimedia.es/noticias/fundacion-jimenez-diaz-lidera-experiencia-paciente-hospitales-madrid-anpass/1413275232</guid>
-      <pubDate>Tue, 08 Sep 2026 10:07:55 +0000</pubDate>
-      <category>Madrid</category>
-      <description>La Asociación Nacional de Pacientes del Sistema Sanitario (ANPASS) ha identificado los hospitales de la Comunidad de Madrid con mejor experiencia del…</description>
-      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413275232-1.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
