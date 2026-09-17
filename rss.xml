@@ -5,7 +5,16 @@
     <link>https://www.servimedia.es</link>
     <description>Todas las noticias públicas de Servimedia, incluidas las noticias de Empresas y Economía.</description>
     <language>es-ES</language>
-    <lastBuildDate>Thu, 17 Sep 2026 17:17:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 17:45:30 +0000</lastBuildDate>
+    <item>
+      <title>Santander hará un ERE en dos sociedades tecnológicas</title>
+      <link>https://www.servimedia.es/noticias/santander-hara-ere-dos-sociedades-tecnologicas/1413317894</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/santander-hara-ere-dos-sociedades-tecnologicas/1413317894</guid>
+      <pubDate>Thu, 17 Sep 2026 17:18:00 +0000</pubDate>
+      <category>Banca</category>
+      <description>El Banco Santander comunicó este jueves a los sindicatos su intención de hacer un despido colectivo o ERE en dos sociedades tecnológicas, Gravity y…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Más Madrid, PSOE y Vox cargan contra Ayuso tras las explicaciones de García Martín sobre el ático</title>
       <link>https://www.servimedia.es/noticias/mas-madrid-psoe-vox-cargan-ayuso-tras-explicaciones-garcia-martin-sobre-atico/1413317890</link>
@@ -13496,15 +13505,6 @@
       <category>Medio ambiente</category>
       <description>Un estudio liderado por el Instituto de Química Física Blas Cabrera del Consejo Superior de Investigaciones Científicas (IQF-CSIC) revela que el…</description>
       <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413275953-1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Los españoles quieren formación en IA en el trabajo, el 73% valora positivamente que su empresa la facilite</title>
-      <link>https://www.servimedia.es/noticias/espanoles-quieren-formacion-ia-trabajo-73-valora-positivamente-empresa-facilite/1413275957</link>
-      <guid isPermaLink="true">https://www.servimedia.es/noticias/espanoles-quieren-formacion-ia-trabajo-73-valora-positivamente-empresa-facilite/1413275957</guid>
-      <pubDate>Wed, 09 Sep 2026 09:27:15 +0000</pubDate>
-      <category>Empresas</category>
-      <description>La IA está ganando terreno como una competencia profesional fundamental y los trabajadores muestran una elevada predisposición a seguir desarrollando…</description>
-      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413275957-1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
