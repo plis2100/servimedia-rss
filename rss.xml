@@ -5,7 +5,25 @@
     <link>https://www.servimedia.es</link>
     <description>Todas las noticias públicas de Servimedia, incluidas las noticias de Empresas y Economía.</description>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 19 Sep 2026 06:47:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 07:17:58 +0000</lastBuildDate>
+    <item>
+      <title>El precio de la luz baja hoy un 11,6%, hasta los 110,26 euros por MWh</title>
+      <link>https://www.servimedia.es/noticias/precio-luz-baja-hoy-11-6-hasta-110-26-euros-mwh/1413318427</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/precio-luz-baja-hoy-11-6-hasta-110-26-euros-mwh/1413318427</guid>
+      <pubDate>Sat, 19 Sep 2026 07:09:47 +0000</pubDate>
+      <category>Energía</category>
+      <description>El precio medio de la electricidad en el mercado mayorista bajará este sábado un 11,6%, al situarse en los 110,26 euros el megavatio hora (MWh)…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Sol y calor el último fin de semana del verano, con más de 35 grados en el suroeste</title>
+      <link>https://www.servimedia.es/noticias/sol-calor-ultimo-fin-semana-verano-mas-35-grados-suroeste/1413318482</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/sol-calor-ultimo-fin-semana-verano-mas-35-grados-suroeste/1413318482</guid>
+      <pubDate>Sat, 19 Sep 2026 07:00:01 +0000</pubDate>
+      <category>Tiempo</category>
+      <description>Muchas horas de sol y temperaturas al alza, sobre todo en la mitad norte peninsular, protagonizarán el tiempo de este fin de semana, el último del…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Abascal subraya que el debate ya no es “catalanes contra castellanos”, sino “España y libertad o Sánchez”</title>
       <link>https://www.servimedia.es/noticias/abascal-subraya-debate-ya-no-es-catalanes-castellanos-sino-espana-libertad-o-sanchez/1413320434</link>
@@ -13487,24 +13505,6 @@
       <category>Madrid</category>
       <description>La presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, anunciará este jueves, durante el Debate del Estado de la Región, que la Línea 6 de Metro…</description>
       <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413276389-1.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La Sierra Oeste de Madrid acoge este sábado la décima oración por el cuidado de la creación</title>
-      <link>https://www.servimedia.es/noticias/sierra-oeste-madrid-acoge-este-sabado-decima-oracion-cuidado-creacion/1413275877</link>
-      <guid isPermaLink="true">https://www.servimedia.es/noticias/sierra-oeste-madrid-acoge-este-sabado-decima-oracion-cuidado-creacion/1413275877</guid>
-      <pubDate>Thu, 10 Sep 2026 06:37:40 +0000</pubDate>
-      <category>Ecología</category>
-      <description>La Sierra Oeste de Madrid acoge este 12 de septiembre la X Jornada de Oración por el Cuidado de la Creación. El paraje de 'El mirador del Hondillo'…</description>
-      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413275877-1.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>La Sierra Oeste de Madrid acoge este sábado la undécima oración por el cuidado de la creación</title>
-      <link>https://www.servimedia.es/noticias/sierra-oeste-madrid-acoge-este-sabado-undecima-oracion-cuidado-creacion/1413275877</link>
-      <guid isPermaLink="true">https://www.servimedia.es/noticias/sierra-oeste-madrid-acoge-este-sabado-undecima-oracion-cuidado-creacion/1413275877</guid>
-      <pubDate>Thu, 10 Sep 2026 06:37:40 +0000</pubDate>
-      <category>Ecología</category>
-      <description>La Sierra Oeste de Madrid acoge este 12 de septiembre la XI Jornada de Oración por el Cuidado de la Creación. El paraje de 'El mirador del Hondillo'…</description>
-      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413275877-1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
