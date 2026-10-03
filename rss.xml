@@ -5,7 +5,16 @@
     <link>https://www.servimedia.es</link>
     <description>Todas las noticias públicas de Servimedia, incluidas las noticias de Empresas y Economía.</description>
     <language>es-ES</language>
-    <lastBuildDate>Sat, 03 Oct 2026 16:38:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 19:47:19 +0000</lastBuildDate>
+    <item>
+      <title>La acampada de Sol resiste y crece tras la manifestación por la vivienda</title>
+      <link>https://www.servimedia.es/noticias/acampada-sol-resiste-crece-tras-manifestacion-vivienda/1413383009</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/acampada-sol-resiste-crece-tras-manifestacion-vivienda/1413383009</guid>
+      <pubDate>Sat, 03 Oct 2026 16:55:33 +0000</pubDate>
+      <category>Vivienda</category>
+      <description>Bridas, cuerdas y garrafas de agua afianzaban este sábado los centenares de tiendas instaladas desde hace una semana en la Puerta del Sol de Madrid,…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413383009-1.jpg" type="image/jpeg" />
+    </item>
     <item>
       <title>Al menos cinco detenidos y nueve policías heridos en la manifestación por la vivienda de Valencia</title>
       <link>https://www.servimedia.es/noticias/menos-cinco-detenidos-nueve-policias-heridos-manifestacion-vivienda-valencia/1413383007</link>
@@ -13496,15 +13505,6 @@
       <category>Vivienda</category>
       <description>El portavoz adjunto de EH Bildu, Oskar Matute, tendió este jueves la mano al Gobierno para alcanzar acuerdos, aunque no colmen todas sus …</description>
       <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413340074-1.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Madrid dedica cambia el nombre del parque Caramuel para dedicarlo al papa Francisco</title>
-      <link>https://www.servimedia.es/noticias/madrid-dedica-cambia-nombre-parque-caramuel-para-dedicarlo-papa-francisco/1413340078</link>
-      <guid isPermaLink="true">https://www.servimedia.es/noticias/madrid-dedica-cambia-nombre-parque-caramuel-para-dedicarlo-papa-francisco/1413340078</guid>
-      <pubDate>Thu, 24 Sep 2026 10:01:20 +0000</pubDate>
-      <category>Madrid</category>
-      <description>La Junta de Gobierno del Ayuntamiento de Madrid aprobó este jueves el cambio de nombre del Parque de Caramuel, en el distrito de Latina, que pasará a…</description>
-      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413340078-1.jpg" type="image/jpeg" />
     </item>
   </channel>
 </rss>
