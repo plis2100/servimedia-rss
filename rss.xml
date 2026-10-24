@@ -5,7 +5,25 @@
     <link>https://www.servimedia.es</link>
     <description>Todas las noticias públicas de Servimedia, incluidas las noticias de Empresas y Economía.</description>
     <language>es-ES</language>
-    <lastBuildDate>Fri, 23 Oct 2026 20:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 07:11:53 +0000</lastBuildDate>
+    <item>
+      <title>La luz sube un 24,6%, hasta los 137,19 euros el MWh</title>
+      <link>https://www.servimedia.es/noticias/luz-sube-24-6-hasta-137-19-euros-mwh/1413477209</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/luz-sube-24-6-hasta-137-19-euros-mwh/1413477209</guid>
+      <pubDate>Sat, 24 Oct 2026 07:09:12 +0000</pubDate>
+      <category>Luz</category>
+      <description>El precio medio de la electricidad en el mercado mayorista sube este sábado un 24,6%, al situarse en los 137,19 euros el megavatio hora (MWh) frente…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
+    <item>
+      <title>Fin de semana soleado y con casi 30 grados en el sur y 15 en el norte</title>
+      <link>https://www.servimedia.es/noticias/fin-semana-soleado-casi-30-grados-sur-15-norte/1413477321</link>
+      <guid isPermaLink="true">https://www.servimedia.es/noticias/fin-semana-soleado-casi-30-grados-sur-15-norte/1413477321</guid>
+      <pubDate>Sat, 24 Oct 2026 07:00:03 +0000</pubDate>
+      <category>Tiempo</category>
+      <description>El tiempo estable se impondrá este último fin de semana completo de octubre en la mayor parte de España, con cielos despejados y temperaturas al alza…</description>
+      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
+    </item>
     <item>
       <title>Mañana empieza el envío de documentación electoral a los españoles en el extranjero con el voto de unos 163.000 ‘nietos’ en suspenso</title>
       <link>https://www.servimedia.es/noticias/manana-empieza-envio-documentacion-electoral-espanoles-extranjero-voto-163000-nietos-suspenso/1413477546</link>
@@ -13487,24 +13505,6 @@
       <category>Elecciones generales</category>
       <description>El líder del PP y candidato a la Presidencia del Gobierno, Alberto Núñez Feijóo, anunció este jueves que, si tiene “el honor” de llegar a La Moncloa…</description>
       <enclosure url="https://www.servimedia.es/sites/default/files/noticias/A/A1-1413437849-1.jpeg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sociedad Civil Catalana ve “recorrido judicial” para que Puigdemont acabe respondiendo por lo gastado en el 'procés'</title>
-      <link>https://www.servimedia.es/noticias/sociedad-civil-catalana-ve-recorrido-judicial-para-puigdemont-acabe-respondiendo-gastado-proces/1413437853</link>
-      <guid isPermaLink="true">https://www.servimedia.es/noticias/sociedad-civil-catalana-ve-recorrido-judicial-para-puigdemont-acabe-respondiendo-gastado-proces/1413437853</guid>
-      <pubDate>Thu, 15 Oct 2026 10:47:34 +0000</pubDate>
-      <category>'Procés'</category>
-      <description>Sociedad Civil Catalana (SCC) aseguró este jueves que ve “recorrido judicial” para que el expresidente catalán Carles Puigdemont y los otros…</description>
-      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Iberdrola, BBVA y Santander firman el primer préstamo sindicato gestionado con ‘blockchain’</title>
-      <link>https://www.servimedia.es/noticias/iberdrola-bbva-santander-firman-primer-prestamo-sindicato-gestionado-blockchain/1413437856</link>
-      <guid isPermaLink="true">https://www.servimedia.es/noticias/iberdrola-bbva-santander-firman-primer-prestamo-sindicato-gestionado-blockchain/1413437856</guid>
-      <pubDate>Thu, 15 Oct 2026 10:46:07 +0000</pubDate>
-      <category>Banca</category>
-      <description>Iberdrola, BBVA y Santander han llevado a cabo una financiación sindicada corporativa por importe de 150 millones de euros gestionada íntegramente…</description>
-      <enclosure url="https://www.servimedia.es/sites/default/files/noticias/img-servimedia-default.png" type="image/jpeg" />
     </item>
   </channel>
 </rss>
